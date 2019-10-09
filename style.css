@@ -1,0 +1,18 @@
+/* Pseudo Css */
+h1 {
+	color: blue;
+	font-size: 50px;
+	font-family: 'verdana';
+}
+ /* Class Css */
+.header {
+	background-color: green;
+	height: 300px;
+	width: 100%;
+	padding: 10px;
+}
+
+/* ID Css */
+#text-paragraph {
+	color: green;
+}
